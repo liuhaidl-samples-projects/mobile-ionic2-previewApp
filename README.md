@@ -6,8 +6,8 @@ This app accompanies the Ionic 2 component documentation.
 
 ### Installation & Development
 
-1. clone this repo: `git clone https://github.com/driftyco/ionic-preview-app.git`
-2. `cd ionic-preview-app`
+1. clone this repo: `git clone https://github.com/liuhaidl-samples-projects/mobile-ionic2-previewApp.git`
+2. `cd mobile-ionic2-previewApp`
 3. `npm install`
 4. run `ionic serve` from a terminal
 
