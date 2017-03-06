@@ -34,4 +34,5 @@ This app accompanies the Ionic 2 component documentation.
 
 ### Issues
  `sudo ionic *` //please run the above ionic commands with sudo when system admin privilege is required. For example, sudo ionic platforms add ios
+ 
  `sudo chown -R loginUser:group *` //for example chown -R liuhaidl:staff * to resolve the emulator startup failed issue
