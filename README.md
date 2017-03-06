@@ -10,7 +10,13 @@ This app accompanies the Ionic 2 component documentation.
 2. `cd mobile-ionic2-previewApp`
 3. `npm install`
 4. run `ionic serve` from a terminal
+5. or run 'ionic serve -l' with live reload mode
 
+### Testing your app in emulator mode
+
+1. run `ionic platform add ios|android` based on your computer os, for example MacOS, Windows etc
+2. run `ionic run ios` with ios emulator default mode
+3. or run `ionic run ios -l` with ios emulator and live reload mode 
 
 ### Running locally on the site
 
